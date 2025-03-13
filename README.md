@@ -1,2 +1,2 @@
-# virtual-pet-care
-A fun virtual pet care website!
+# petpal
+virtual pet care website!
